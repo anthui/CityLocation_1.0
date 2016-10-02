@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anthui"
+    android:versionCode="1"
+    android:versionName="1.0">
+
+    <application />
+</manifest>
+
+    <!--
+      需要将下列权限放到你使用的清单文件中
+        <uses-permission android:name="android.permission.INTERNET" />
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+        <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+        <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+        <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+        <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+        <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+        <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+        <uses-permission android:name="android.permission.READ_LOGS" />
+        <uses-permission android:name="android.permission.VIBRATE" />
+        <uses-permission android:name="android.permission.WAKE_LOCK" />
+        <uses-permission android:name="android.permission.WRITE_SETTINGS" />-->
+
+
+    <!--
+需要将下列代码放到你清单文件的application中
+     注册百度服务
+    <service
+        android:name="com.baidu.location.f"
+        android:enabled="true"
+        android:process=":remote"></service>
+
+         value为baidu地图的密匙，每个包只能对应一个密钥
+    <meta-data
+        android:name="com.baidu.lbsapi.API_KEY"
+        android:value="lnP2TfniXosI3BkAUFAquNo9Y3CEYOcl" />
+
+-->
+
