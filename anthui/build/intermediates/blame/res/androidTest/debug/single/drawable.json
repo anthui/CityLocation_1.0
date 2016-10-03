@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable\\text_selector.xml"
+    },
+    {
         "merged": "C:\\study_program\\studio_space\\ContactList\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\text_selector.xml",
         "source": "C:\\study_program\\studio_space\\ContactList\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_selector.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable\\item_selector.xml"
     },
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\item_selector.xml",

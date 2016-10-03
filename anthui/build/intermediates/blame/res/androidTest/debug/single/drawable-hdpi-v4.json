@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wb_btn_off_normal.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wb_btn_off_normal.png"
+    },
+    {
         "merged": "C:\\Users\\Administrator\\Desktop\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wb_btn_off_normal.png",
         "source": "C:\\Users\\Administrator\\Desktop\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wb_btn_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wb_search_icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wb_search_icon.png"
     },
     {
         "merged": "C:\\study_program\\studio_space\\ContactList\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon.png",
@@ -10,6 +18,10 @@
     {
         "merged": "C:\\Users\\Administrator\\Desktop\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wb_search_icon.png",
         "source": "C:\\Users\\Administrator\\Desktop\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\wb_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\city\\CityLocation\\anthui\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon.png"
     },
     {
         "merged": "C:\\study_program\\studio_space\\ContactList\\anthui\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\wb_btn_off_normal.png",
